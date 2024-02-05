@@ -1,9 +1,16 @@
 ﻿namespace ejercicio3Date
 {
-
+    /// <summary>
+    /// Clase principal del programa 
+    /// msm - 050224
+    /// </summary>
     class Program
     {
-
+        /// <summary>
+        /// Metodo que contiene el procedimiento de la aplicacion
+        /// msm - 050224
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Random random = new Random();
